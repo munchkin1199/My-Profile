@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h1 align="center">Hi 👋, I'm Clevane Villareal</h1>

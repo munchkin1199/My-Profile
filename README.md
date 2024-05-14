@@ -26,5 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CL3V&show_icons=true&locale=en" alt="CL3V" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CL3V&" alt="CL3V" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CL3V&" alt="CL3V" /></p> 
 
